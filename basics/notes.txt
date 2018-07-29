@@ -1,3 +1,16 @@
 As of now, use commas to make spaces to print.
 
 Use snake case.
+
+Input function always returns a string
+
+when using the Python repl, numbers are assigned the variable _
+data types:
+Whole numbers are integers or ints. 1 13 14 etc
+Decimal numbers are floats
+Floats are always returned when using division
+You can use // to return an int with division
+round(4.6) rounds up
+round(4.4) rounds down
+PEMDAS
+
